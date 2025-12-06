@@ -1,0 +1,27 @@
+{
+  "john@example.com": {
+    "id": 1,
+    "name": "John Doe",
+    "role": "ceo"
+  },
+  "jane@example.com": {
+    "id": 2,
+    "name": "Jane Smith",
+    "role": "manager"
+  },
+  "joey@example.com": {
+    "id": 3,
+    "name": "Joey Brown",
+    "role": "worker"
+  },
+  "email@email.com": {
+    "id": 4,
+    "name": "NewUser",
+    "role": "employee"
+  },
+  "newemail@gmail.com": {
+    "id": 5,
+    "name": "NewUser",
+    "role": "employee"
+  }
+}

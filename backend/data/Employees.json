@@ -1,0 +1,30 @@
+{
+  "john@example.com": {
+    "id": 1,
+    "name": "John Doe",
+    "password": "123",
+    "role": "ceo",
+    "pic": "https://cdn.creazilla.com/icons/7912523/business-man-icon-lg.png"
+  },
+  "jane@example.com": {
+    "id": 2,
+    "name": "Jane Smith",
+    "password": "456",
+    "role": "manager",
+    "pic": "https://cdn.creazilla.com/cliparts/858918/woman-with-long-hair-clipart-lg.png"
+  },
+  "joey@example.com": {
+    "id": 3,
+    "name": "Joey Brown",
+    "password": "246",
+    "role": "worker",
+    "pic": "https://cdn.creazilla.com/cliparts/3174456/profile-clipart-lg.png"
+  },
+  "newemail@gmail.com": {
+    "id": 5,
+    "name": "NewUser",
+    "password": "123123",
+    "role": "employee",
+    "pic": null
+  }
+}
